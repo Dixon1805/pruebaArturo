@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependencias de build
+dist/
+build/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDEs y editores
+.vscode/
+.idea/
+
+# Carpetas y archivos temporales
+.env
+.env.local
+.env.*.local
+
+# Resultados de pruebas o reportes de cobertura (si usas jest con cobertura)
+coverage/
