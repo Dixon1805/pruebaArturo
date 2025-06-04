@@ -3,6 +3,7 @@ function sumar(a, b) {
 }
 
 function dividir(a,b){
+    console.log("");
     return a/b;
 }
 
